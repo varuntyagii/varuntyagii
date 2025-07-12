@@ -77,10 +77,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii" alt="GitHub Streak" />
 </p>
+
+---
+
+### 💡 Skill Tags
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+---
 
 <!--
 **varuntyagii/varuntyagii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
