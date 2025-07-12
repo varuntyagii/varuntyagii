@@ -1,21 +1,15 @@
+<!-- 👋 Intro Heading -->
 <h1 align="center">Hi 👋, I'm Varun Tyagi</h1>
+<h3 align="center">Final Year B.Tech CSE | MERN Stack Developer | DSA in C++ | Exploring AI & Open Source</h3>
 
-<!-- 🚀 Typing animation -->
+<!-- 🟢 Only one GIF: clean matrix-style animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Final+Year+B.Tech+CSE;MERN+Stack+Developer;DSA+Lover+in+C%2B%2B;Exploring+AI+%26+Open+Source" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif" width="400" height="250" alt="Matrix Coding GIF" />
 </p>
 
-<!-- 🎞️ Side-by-side GIFs with same size & autoplay look -->
+<!-- 🐦 Twitter Button (Optional) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="300" height="200" alt="Coding GIF" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif" width="300" height="200" alt="Creative GIF" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/varun_tyagi0" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/varun_tyagi0?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
+  <a href="https://twitter.com/varun_tyagi0"><img src="https://img.shields.io/twitter/follow/varun_tyagi0?label=Follow%20%40VARUN_TYAGI0&style=social" alt="Twitter" /></a>
 </p>
 
 ---
