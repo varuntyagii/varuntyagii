@@ -19,7 +19,7 @@
 - 🚀 All of my projects are available at [My Portfolio](https://portfolio-seven-xi-62.vercel.app/)
 - 💬 Ask me about:  
   **MERN Stack, DSA in C++, Open Source, or how to stay awake while debugging at 3am 😴**
-- 📫 Reach me at: **varuntyagi00992@gmail.com**
+- 📫 Reach me at: **varuntyagi0099@gmail.com**
 - ⚡ Fun fact:  
   **I believe the best way to learn is to build — and break — things 😄**
 
