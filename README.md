@@ -1,6 +1,6 @@
 <!-- 👋 Intro Heading -->
 <h1 align="center">Hi 👋, I'm Varun Tyagi</h1>
-<h3 align="center">Final Year B.Tech CSE | MERN Stack Developer | DSA in C++ | Exploring AI & Open Source</h3>
+<h3 align="center">Final Year B.Tech CSE | MERN Stack Developer |  DSA Enthusiast | Exploring AI & Open Source</h3>
 
 <!-- 🟢 Only one GIF: clean matrix-style animation -->
 <p align="center">
