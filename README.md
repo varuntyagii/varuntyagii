@@ -6,14 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Final+Year+B.Tech+CSE;MERN+Stack+Developer;DSA+Lover+in+C%2B%2B;Exploring+AI+%26+Open+Source" alt="Typing SVG" />
 </p>
 
-<!-- 🎞️ Coding GIF -->
+<!-- 🎞️ Coding + Creative GIFs side by side (same small size) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="400" alt="Coding GIF" />
-</p>
-
-<!-- 🎯 Second GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif" width="400" alt="Creative GIF" />
+  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="300" alt="Coding GIF" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif" width="300" alt="Creative GIF" />
 </p>
 
 <p align="center">
