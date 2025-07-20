@@ -12,6 +12,10 @@
   <img src="https://media.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif" width="400" height="250" alt="Matrix Coding GIF" />
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/varun_tyagi0"><img src="https://img.shields.io/twitter/follow/varun_tyagi0?label=Follow%20%40VARUN_TYAGI0&style=social" alt="Twitter Follow" /></a>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=varuntyagii&color=F85D7F&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/varuntyagii?label=Follow&style=social)](https://github.com/varuntyagii)
 
@@ -94,9 +98,6 @@ const varun = {
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
 
-<p align="center">
-  <a href="https://twitter.com/varun_tyagi0"><img src="https://img.shields.io/twitter/follow/varun_tyagi0?label=Follow%20%40VARUN_TYAGI0&style=social" alt="Twitter Follow" /></a>
-</p>
 
 </div>
 
@@ -213,15 +214,6 @@ const varun = {
 ## 📝 **Content & Learning**
 
 <div align="center">
-
-### 🖋️ **Recent Blog Posts & Articles**
-
-| 📖 Title | 📅 Date | 🔗 Link |
-|-----------|---------|---------|
-| **Building AI-Powered Career Applications** | Jan 2025 | [Read More →](https://your-blog-link.com/ai-career-apps) |
-| **Full Stack Development with Modern Tools** | Jan 2025 | [Read More →](https://your-blog-link.com/modern-fullstack) |
-| **React 19 & Next.js 15: What's New** | Dec 2024 | [Read More →](https://your-blog-link.com/react-nextjs-updates) |
-| **My Journey from College to Full Stack** | Nov 2024 | [Read More →](https://your-blog-link.com/journey-story) |
 
 <!-- BLOG-POST-LIST:START -->
 *📝 Blog posts automatically updated via GitHub Actions*
