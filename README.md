@@ -41,6 +41,7 @@ const varun = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -49,6 +50,7 @@ const varun = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -66,16 +68,72 @@ const varun = {
 
 ---
 
-## 🌐 **Connect & Follow**
+## 🎨 **Featured Projects**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/varuntyagii_)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
+### 🔥 **Showcase Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 AI Career Coach**
+- **Tech**: React 19, Next.js 15, Tailwind CSS, NeonDB, Prisma, Clerk, Gemini API
+- **Features**: AI Resume Generator, Cover Letter Creator, Interview Practice with Real-time Feedback
+- **Status**: 🚀 Deployed & Live
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/AI-career-Coach)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://ai-career-coach-b2z4.vercel.app)
+
+</td>
+<td width="50%">
+
+**🌤️ Weather App**
+- **Tech**: React, JavaScript, Weather API, Responsive Design
+- **Features**: Real-time weather data, Location-based forecasts, Clean UI/UX
+- **Status**: ✅ Completed & Deployed
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/weather-app)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://weather-app-sepia-nu-63.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💼 Personal Portfolio**
+- **Tech**: React, JavaScript, CSS3, Responsive Design
+- **Features**: Project showcase, Interactive design, Contact form, Smooth animations
+- **Status**: 🚀 Live & Updated
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/Portfolio)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://portfolio-seven-xi-62.vercel.app)
+
+</td>
+<td width="50%">
+
+**🔧 More Projects Coming Soon...**
+- **Focus**: Full Stack Applications with AI Integration
+- **Tech**: MERN Stack, AI APIs, Modern Frameworks
+- **Status**: 🛠️ In Development
+
+[![GitHub](https://img.shields.io/badge/-Follow%20for%20Updates-181717?style=flat&logo=github)](https://github.com/varuntyagii)
+
+</td>
+</tr>
+</table>
+
+### 🛠️ **Open Source Contributions**
+
+<div align="left">
+
+- 🔧 **React Component Library** - Created reusable UI components for modern web apps
+- 📝 **Documentation Bot** - Automated documentation generator for GitHub repositories  
+- 🎨 **CSS Animation Toolkit** - Collection of smooth, performant CSS animations
+- 🧮 **Algorithm Visualizer** - Interactive tool for learning data structures and algorithms
+
+</div>
 
 </div>
 
@@ -130,94 +188,16 @@ const varun = {
 
 ---
 
-## 🎨 **Featured Projects**
+## 🌐 **Connect & Follow**
 
 <div align="center">
 
-### 🔥 **Showcase Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-**🌐 Full Stack E-Commerce Platform**
-- **Tech**: MERN Stack, Stripe API, JWT
-- **Features**: User authentication, Payment gateway, Admin dashboard
-- **Status**: 🚀 Deployed & Live
-
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/ecommerce-platform)
-[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://your-ecommerce-demo.vercel.app)
-
-</td>
-<td width="50%">
-
-**🤖 AI-Powered Task Manager**
-- **Tech**: React, Node.js, OpenAI API, MongoDB
-- **Features**: Smart task categorization, AI suggestions
-- **Status**: 🔧 In Development
-
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/ai-task-manager)
-[![Demo](https://img.shields.io/badge/-Preview-FF6B6B?style=flat&logo=figma)](https://figma.com/your-design-link)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📊 Real-time Analytics Dashboard**
-- **Tech**: React, D3.js, Socket.io, Express
-- **Features**: Live data visualization, Interactive charts
-- **Status**: ✅ Completed
-
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/analytics-dashboard)
-[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://your-dashboard-demo.vercel.app)
-
-</td>
-<td width="50%">
-
-**🎮 Interactive Web Game**
-- **Tech**: JavaScript, HTML5 Canvas, CSS3
-- **Features**: Multiplayer support, Score tracking
-- **Status**: 🎯 Beta Testing
-
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/web-game)
-[![Play](https://img.shields.io/badge/-Play%20Now-4CAF50?style=flat&logo=gamepad)](https://your-game-demo.vercel.app)
-
-</td>
-</tr>
-</table>
-
-### 🛠️ **Open Source Contributions**
-
-<div align="left">
-
-- 🔧 **React Component Library** - Created reusable UI components for modern web apps
-- 📝 **Documentation Bot** - Automated documentation generator for GitHub repositories  
-- 🎨 **CSS Animation Toolkit** - Collection of smooth, performant CSS animations
-- 🧮 **Algorithm Visualizer** - Interactive tool for learning data structures and algorithms
-
-</div>
-
-</div>
-
----
-
-## 📈 **Profile Views & Followers**
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=varuntyagii&color=F85D7F&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/varuntyagii?label=Follow&style=social)](https://github.com/varuntyagii)
-
-</div>
-
----
-
-## 💡 **Random Dev Quote**
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/varuntyagii_)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
 
 </div>
 
@@ -241,9 +221,9 @@ const varun = {
 
 | 📖 Title | 📅 Date | 🔗 Link |
 |-----------|---------|---------|
-| **Building Scalable MERN Applications** | Jan 2025 | [Read More →](https://your-blog-link.com/mern-scalability) |
-| **AI Integration in Modern Web Apps** | Dec 2024 | [Read More →](https://your-blog-link.com/ai-integration) |
-| **Optimizing React Performance** | Dec 2024 | [Read More →](https://your-blog-link.com/react-optimization) |
+| **Building AI-Powered Career Applications** | Jan 2025 | [Read More →](https://your-blog-link.com/ai-career-apps) |
+| **Full Stack Development with Modern Tools** | Jan 2025 | [Read More →](https://your-blog-link.com/modern-fullstack) |
+| **React 19 & Next.js 15: What's New** | Dec 2024 | [Read More →](https://your-blog-link.com/react-nextjs-updates) |
 | **My Journey from College to Full Stack** | Nov 2024 | [Read More →](https://your-blog-link.com/journey-story) |
 
 <!-- BLOG-POST-LIST:START -->
@@ -251,11 +231,32 @@ const varun = {
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 **YouTube Content**
+- **"AI Integration in Web Apps"** - Building intelligent applications with modern frameworks
 - **"MERN Stack Tutorial Series"** - Complete beginner to advanced guide
 - **"DSA in JavaScript"** - Problem-solving with practical examples
-- **"Building Real Projects"** - End-to-end development tutorials
 
 [![Subscribe](https://img.shields.io/badge/-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
+
+</div>
+
+---
+
+## 💡 **Random Dev Quote**
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📈 **Profile Views & Followers**
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=varuntyagii&color=F85D7F&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/varuntyagii?label=Follow&style=social)](https://github.com/varuntyagii)
 
 </div>
 
