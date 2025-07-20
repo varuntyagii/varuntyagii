@@ -275,8 +275,8 @@ If you find my work helpful, consider supporting me! Your support helps me creat
 
 ### 📊 **Quick Stats**
 
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-100K+-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects%20Completed-25+-green?style=for-the-badge)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-5K+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Completed-5+-green?style=for-the-badge)
 ![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 ---
