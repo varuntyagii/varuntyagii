@@ -241,10 +241,7 @@ const varun = {
 *📝 Blog posts automatically updated via GitHub Actions*
 <!-- BLOG-POST-LIST:END -->
 
-### 🎥 **YouTube Content**
-- **"AI Integration in Web Apps"** - Building intelligent applications with modern frameworks
-- **"MERN Stack Tutorial Series"** - Complete beginner to advanced guide
-- **"DSA in JavaScript"** - Problem-solving with practical examples
+### 🎥 **YouTube Profile**
 
 [![Subscribe](https://img.shields.io/badge/-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
 
@@ -286,8 +283,8 @@ If you find my work helpful, consider supporting me! Your support helps me creat
 
 ### 📊 **Quick Stats**
 
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-100K+-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects%20Completed-25+-green?style=for-the-badge)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-3K+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Completed-5+-green?style=for-the-badge)
 ![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 ---
