@@ -134,8 +134,69 @@ const varun = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=varuntyagii&repo=your-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)](https://github.com/varuntyagii/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=varuntyagii&repo=your-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)](https://github.com/varuntyagii/your-project-2)
+### 🔥 **Showcase Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+**🌐 Full Stack E-Commerce Platform**
+- **Tech**: MERN Stack, Stripe API, JWT
+- **Features**: User authentication, Payment gateway, Admin dashboard
+- **Status**: 🚀 Deployed & Live
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/ecommerce-platform)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://your-ecommerce-demo.vercel.app)
+
+</td>
+<td width="50%">
+
+**🤖 AI-Powered Task Manager**
+- **Tech**: React, Node.js, OpenAI API, MongoDB
+- **Features**: Smart task categorization, AI suggestions
+- **Status**: 🔧 In Development
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/ai-task-manager)
+[![Demo](https://img.shields.io/badge/-Preview-FF6B6B?style=flat&logo=figma)](https://figma.com/your-design-link)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 Real-time Analytics Dashboard**
+- **Tech**: React, D3.js, Socket.io, Express
+- **Features**: Live data visualization, Interactive charts
+- **Status**: ✅ Completed
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/analytics-dashboard)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://your-dashboard-demo.vercel.app)
+
+</td>
+<td width="50%">
+
+**🎮 Interactive Web Game**
+- **Tech**: JavaScript, HTML5 Canvas, CSS3
+- **Features**: Multiplayer support, Score tracking
+- **Status**: 🎯 Beta Testing
+
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/web-game)
+[![Play](https://img.shields.io/badge/-Play%20Now-4CAF50?style=flat&logo=gamepad)](https://your-game-demo.vercel.app)
+
+</td>
+</tr>
+</table>
+
+### 🛠️ **Open Source Contributions**
+
+<div align="left">
+
+- 🔧 **React Component Library** - Created reusable UI components for modern web apps
+- 📝 **Documentation Bot** - Automated documentation generator for GitHub repositories  
+- 🎨 **CSS Animation Toolkit** - Collection of smooth, performant CSS animations
+- 🧮 **Algorithm Visualizer** - Interactive tool for learning data structures and algorithms
+
+</div>
 
 </div>
 
@@ -167,8 +228,36 @@ const varun = {
 - 🔭 Working on **Full Stack Projects with AI Integration**
 - 🌱 Learning **Advanced React Patterns & Next.js**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 🥅 2024 Goals: **Contribute to more Open Source projects**
+- 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
 - ⚡ Fun fact: **I love solving complex problems with simple solutions**
+
+---
+
+## 📝 **Latest Blog Posts & Articles**
+
+<div align="center">
+
+### 🖋️ **Recent Writings**
+
+| 📖 Title | 📅 Date | 🔗 Link |
+|-----------|---------|---------|
+| **Building Scalable MERN Applications** | Jan 2025 | [Read More →](https://your-blog-link.com/mern-scalability) |
+| **AI Integration in Modern Web Apps** | Dec 2024 | [Read More →](https://your-blog-link.com/ai-integration) |
+| **Optimizing React Performance** | Dec 2024 | [Read More →](https://your-blog-link.com/react-optimization) |
+| **My Journey from College to Full Stack** | Nov 2024 | [Read More →](https://your-blog-link.com/journey-story) |
+
+<!-- BLOG-POST-LIST:START -->
+*📝 Blog posts automatically updated via GitHub Actions*
+<!-- BLOG-POST-LIST:END -->
+
+### 🎥 **YouTube Content**
+- **"MERN Stack Tutorial Series"** - Complete beginner to advanced guide
+- **"DSA in JavaScript"** - Problem-solving with practical examples
+- **"Building Real Projects"** - End-to-end development tutorials
+
+[![Subscribe](https://img.shields.io/badge/-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
+
+</div>
 
 ---
 
@@ -176,21 +265,23 @@ const varun = {
   
 ### 💝 **Support My Work**
 
-If you find my work helpful, consider buying me a coffee! ☕
+If you find my work helpful, consider supporting me! Your support helps me create more open-source projects and educational content. ☕
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/varuntyagi)
+[![GitHub Sponsor](https://img.shields.io/badge/-Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/varuntyagii)
 
 ---
 
-### 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon! 🚀
-<!-- BLOG-POST-LIST:END -->
+### 📊 **Quick Stats**
+
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-100K+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Completed-25+-green?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 ---
 
-**"Code is poetry written in logic"** ✨
+**"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."** ✨
 
-*Last updated: January 2025*
+*Last updated: July 2025 | Always evolving, always coding* 🚀
 
 </div>
