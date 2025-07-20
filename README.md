@@ -8,7 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 
-<!-- 🟢 Only one GIF: clean matrix-style animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif" width="400" height="250" alt="Matrix Coding GIF" />
 </p>
@@ -75,6 +74,22 @@ const varun = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### **Coding Platforms**
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/varun_tyagi/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varuntyagii/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/varun_tyagi009)
+
+### **Connect & Follow**
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/varuntyagii_)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
 
 </div>
 
@@ -188,37 +203,18 @@ const varun = {
 
 ---
 
-## 💻 **Coding Profiles**
+## 📈 **Profile Metrics**
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/varun_tyagi/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varuntyagii/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/varun_tyagi009)
+![Profile Views](https://komarev.com/ghpvc/?username=varuntyagii&color=F85D7F&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/varuntyagii?label=Follow&style=social)](https://github.com/varuntyagii)
 
-</div>
+### 📊 **Quick Stats**
 
----
-
-## 🌐 **Connect & Follow**
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
-
-<!-- 🐦 Twitter Button (Optional) -->
-<p align="center">
-  <a href="https://twitter.com/varun_tyagi0"><img src="https://img.shields.io/twitter/follow/varun_tyagi0?label=Follow%20%40VARUN_TYAGI0&style=social" alt="Twitter" /></a>
-</p>
-
-### **More Platforms**
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/varuntyagii_)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-3K+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Completed-5+-green?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 </div>
 
@@ -241,9 +237,37 @@ const varun = {
 *📝 Blog posts automatically updated via GitHub Actions*
 <!-- BLOG-POST-LIST:END -->
 
-### 🎥 **YouTube Profile**
+### 🎥 **YouTube Channel**
 
 [![Subscribe](https://img.shields.io/badge/-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
+
+<p align="center">
+  <a href="https://twitter.com/varun_tyagi0"><img src="https://img.shields.io/twitter/follow/varun_tyagi0?label=Follow%20%40VARUN_TYAGI0&style=social" alt="Twitter" /></a>
+</p>
+
+</div>
+
+---
+
+## 🌐 **Connect & Follow**
+
+<div align="center">
+
+### **Primary Platforms**
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
+
+<p align="center">
+  <a href="https://twitter.com/varun_tyagi0"><img src="https://img.shields.io/twitter/follow/varun_tyagi0?label=Follow%20%40VARUN_TYAGI0&style=social" alt="Twitter" /></a>
+</p>
+
+### **Additional Platforms**
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/varuntyagii_)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
 
 </div>
 
@@ -259,33 +283,14 @@ const varun = {
 
 ---
 
-## 📈 **Profile Views & Followers**
+## 💝 **Support My Work**
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=varuntyagii&color=F85D7F&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/varuntyagii?label=Follow&style=social)](https://github.com/varuntyagii)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💝 **Support My Work**
 
 If you find my work helpful, consider supporting me! Your support helps me create more open-source projects and educational content. ☕
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/varuntyagi)
 [![GitHub Sponsor](https://img.shields.io/badge/-Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/varuntyagii)
-
----
-
-### 📊 **Quick Stats**
-
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-3K+-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects%20Completed-5+-green?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 ---
 
