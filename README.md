@@ -8,10 +8,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
+<!-- 🟢 Only one GIF: clean matrix-style animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif" width="400" height="250" alt="Matrix Coding GIF" />
+</p>
 
 </div>
 
@@ -31,6 +31,18 @@ const varun = {
     lookingFor: "Exciting opportunities in Full Stack Development"
 };
 ```
+
+---
+
+## 🚀 **Current Goals**
+
+- 🔭 Working on **Full Stack Projects with AI Integration**
+- 🌱 Learning **Advanced React Patterns & Next.js**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
+- ⚡ Fun fact: **I love solving complex problems with simple solutions**
+
+---
 
 ## 🛠️ **Tech Arsenal**
 
@@ -139,18 +151,6 @@ const varun = {
 
 ---
 
-## 💻 **Coding Profiles**
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/varun_tyagi/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varuntyagii/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/varun_tyagi009)
-
-</div>
-
----
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -188,28 +188,39 @@ const varun = {
 
 ---
 
+## 💻 **Coding Profiles**
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/varun_tyagi/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varuntyagii/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/varun_tyagi009)
+
+</div>
+
+---
+
 ## 🌐 **Connect & Follow**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/varun_tyagi0)
+
+<!-- 🐦 Twitter Button (Optional) -->
+<p align="center">
+  <a href="https://twitter.com/varun_tyagi0"><img src="https://img.shields.io/twitter/follow/varun_tyagi0?label=Follow%20%40VARUN_TYAGI0&style=social" alt="Twitter" /></a>
+</p>
+
+### **More Platforms**
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/varuntyagii_)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
 
 </div>
-
----
-
-## 🚀 **Current Goals**
-
-- 🔭 Working on **Full Stack Projects with AI Integration**
-- 🌱 Learning **Advanced React Patterns & Next.js**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
-- ⚡ Fun fact: **I love solving complex problems with simple solutions**
 
 ---
 
@@ -275,8 +286,8 @@ If you find my work helpful, consider supporting me! Your support helps me creat
 
 ### 📊 **Quick Stats**
 
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-5K+-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects%20Completed-5+-green?style=for-the-badge)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-100K+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Completed-25+-green?style=for-the-badge)
 ![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 ---
