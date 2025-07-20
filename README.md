@@ -2,9 +2,9 @@
 
 <div align="center">
   
-### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+### 🚀 Web Developer | DSA Enthusiast | Problem Solver
 
-*Recently completed B.Tech in CSE | MERN Stack Expert | DSA Practitioner | Open Source Contributor*
+*Recently completed B.Tech in CSE | MERN/PERN Stack Expert | Frontend/Backend Developer | Open Source Contributor*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 
