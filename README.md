@@ -229,8 +229,6 @@ const varun = {
 
 ## 💡 **Daily Motivation**
 
-> “Push yourself. No one else is going to do it for you.”
-
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
