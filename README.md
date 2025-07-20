@@ -23,12 +23,18 @@
 const varun = {
     location: "India 🇮🇳",
     education: "B.Tech in Computer Science Engineering",
-    currentFocus: "Full Stack Development & AI Integration",
-    techStack: ["React", "Node.js", "MongoDB", "Express", "JavaScript", "C++"],
-    interests: ["Web Development", "Data Structures", "AI/ML", "Open Source"],
+    currentFocus: "Full Stack Development & AI-Powered Applications",
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
+        backend: ["Node.js", "Express", "Python", "MongoDB", "PostgreSQL"],
+        ai_ml: ["OpenAI API", "TensorFlow", "Langchain", "Hugging Face", "PyTorch"],
+        tools: ["Docker", "AWS", "Git", "Figma", "Postman"]
+    },
+    specialization: "Building intelligent web applications with AI integration",
+    interests: ["AI/ML Integration", "Full Stack Development", "LLM Applications", "Open Source"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    currentlyLearning: "Advanced React Patterns & AI Integration",
-    lookingFor: "Exciting opportunities in Full Stack Development"
+    currentlyLearning: "Advanced AI Integration & Microservices Architecture",
+    lookingFor: "Opportunities in AI-powered Full Stack Development"
 };
 ```
 
@@ -36,31 +42,60 @@ const varun = {
 
 <div align="center">
 
-### **Frontend**
+### **🎨 Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
-### **Backend**
+### **⚙️ Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microservices&logoColor=white)
+
+### **🗄️ Databases & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### **🤖 AI & Machine Learning**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Tools & Platforms**
+### **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### **🛠️ Tools & Development**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -140,61 +175,67 @@ const varun = {
 <tr>
 <td width="50%">
 
-**🌐 Full Stack E-Commerce Platform**
-- **Tech**: MERN Stack, Stripe API, JWT
-- **Features**: User authentication, Payment gateway, Admin dashboard
+**🤖 AI Career Coach - Full Stack AI Application**
+- **Frontend**: React 19, Next.js 15, Tailwind CSS
+- **Backend**: NeonDB, Prisma ORM, Clerk Auth, Inngest
+- **AI Features**: Resume generation, Cover letter creation, Interview practice with real-time feedback
+- **API**: Gemini AI Integration
 - **Status**: 🚀 Deployed & Live
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/ecommerce-platform)
-[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://your-ecommerce-demo.vercel.app)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/AI-career-Coach)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://ai-career-coach-b2z4.vercel.app)
 
 </td>
 <td width="50%">
 
-**🤖 AI-Powered Task Manager**
-- **Tech**: React, Node.js, OpenAI API, MongoDB
-- **Features**: Smart task categorization, AI suggestions
-- **Status**: 🔧 In Development
+**🌤️ Weather App - Modern Weather Dashboard**
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **Backend**: Weather API Integration, Geolocation
+- **Features**: Real-time weather data, Location-based forecasts, Responsive design
+- **Status**: ✅ Completed & Deployed
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/ai-task-manager)
-[![Demo](https://img.shields.io/badge/-Preview-FF6B6B?style=flat&logo=figma)](https://figma.com/your-design-link)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/weather-app)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://weather-app-sepia-nu-63.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📊 Real-time Analytics Dashboard**
-- **Tech**: React, D3.js, Socket.io, Express
-- **Features**: Live data visualization, Interactive charts
-- **Status**: ✅ Completed
+**💼 Personal Portfolio - Showcase Website**
+- **Frontend**: React, Next.js, Modern CSS, Framer Motion
+- **Features**: Project showcase, Skills display, Contact integration, Responsive design
+- **Design**: Custom animations, Dark/Light themes, Interactive elements
+- **Status**: 🚀 Live & Continuously Updated
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/analytics-dashboard)
-[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://your-dashboard-demo.vercel.app)
+[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/Portfolio)
+[![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://portfolio-seven-xi-62.vercel.app)
 
 </td>
 <td width="50%">
 
-**🎮 Interactive Web Game**
-- **Tech**: JavaScript, HTML5 Canvas, CSS3
-- **Features**: Multiplayer support, Score tracking
-- **Status**: 🎯 Beta Testing
+**🚀 Upcoming Project - Smart Code Assistant**
+- **Frontend**: Next.js, Chakra UI, TypeScript
+- **Backend**: Python, Django, LangChain, OpenAI GPT-4
+- **AI Features**: Code generation, Debug assistance, Documentation
+- **Status**: 🔧 In Development
 
-[![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/web-game)
-[![Play](https://img.shields.io/badge/-Play%20Now-4CAF50?style=flat&logo=gamepad)](https://your-game-demo.vercel.app)
+[![Coming Soon](https://img.shields.io/badge/-Coming%20Soon-FFB800?style=flat&logo=rocket)](https://github.com/varuntyagii)
+[![Preview](https://img.shields.io/badge/-Preview-FF6B6B?style=flat&logo=figma)](#)
 
 </td>
 </tr>
 </table>
 
-### 🛠️ **Open Source Contributions**
+### 🛠️ **AI-Focused Open Source Contributions**
 
 <div align="left">
 
-- 🔧 **React Component Library** - Created reusable UI components for modern web apps
-- 📝 **Documentation Bot** - Automated documentation generator for GitHub repositories  
-- 🎨 **CSS Animation Toolkit** - Collection of smooth, performant CSS animations
-- 🧮 **Algorithm Visualizer** - Interactive tool for learning data structures and algorithms
+- 🤖 **AI Career Coach** - Open source AI-powered career assistance platform with multiple AI integrations
+- 🌤️ **Weather Dashboard Components** - Reusable React components for weather data visualization
+- 💼 **Portfolio Templates** - Modern portfolio templates with advanced animations and responsive design
+- 🔍 **API Integration Examples** - Practical examples of integrating third-party APIs in React applications
+- 🎨 **UI Component Library** - Custom React components with Tailwind CSS for rapid development
 
 </div>
 
@@ -225,11 +266,42 @@ const varun = {
 
 ## 🚀 **Current Goals**
 
-- 🔭 Working on **Full Stack Projects with AI Integration**
-- 🌱 Learning **Advanced React Patterns & Next.js**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
-- ⚡ Fun fact: **I love solving complex problems with simple solutions**
+- 🤖 Working on **AI-Powered Full Stack Applications** with modern LLM integration
+- 🌱 Learning **Advanced AI/ML Techniques** and **Microservices Architecture**
+- 👯 Looking to collaborate on **AI-driven Open Source Projects**
+- 🎯 2025 Goals: **Build production-ready AI applications & Contribute to ML communities**
+- ⚡ Fun fact: **I believe AI + Human creativity = Unlimited possibilities**
+
+---
+
+## 🧠 **AI & ML Expertise**
+
+<div align="center">
+
+### **🔥 AI Integration Specializations**
+
+| 🎯 **Area** | 🛠️ **Technologies** | 📊 **Experience Level** |
+|-------------|---------------------|-------------------------|
+| **LLM Integration** | OpenAI GPT-4, Claude, LangChain | 🔥🔥🔥🔥⚪ |
+| **Computer Vision** | TensorFlow, OpenCV, YOLO | 🔥🔥🔥⚪⚪ |
+| **NLP Processing** | Hugging Face, spaCy, NLTK | 🔥🔥🔥🔥⚪ |
+| **Recommendation Systems** | Collaborative Filtering, Content-based | 🔥🔥🔥⚪⚪ |
+| **Data Analysis** | Pandas, NumPy, Scikit-learn | 🔥🔥🔥🔥⚪ |
+| **MLOps** | Docker, AWS SageMaker, MLflow | 🔥🔥🔥⚪⚪ |
+
+### **🎨 Frontend AI Integration**
+- **Smart UI Components** - AI-powered form validation and suggestions
+- **Real-time Chat Interfaces** - Seamless chatbot integration with React
+- **Predictive UX** - User behavior prediction for better experiences
+- **Voice Integration** - Speech-to-text and text-to-speech implementations
+
+### **⚙️ Backend AI Services**
+- **API Development** - RESTful and GraphQL APIs for AI services
+- **Model Serving** - Efficient deployment of ML models using FastAPI
+- **Data Pipelines** - Automated data processing and feature engineering
+- **Scalable Architecture** - Microservices for AI model management
+
+</div>
 
 ---
 
@@ -241,19 +313,21 @@ const varun = {
 
 | 📖 Title | 📅 Date | 🔗 Link |
 |-----------|---------|---------|
-| **Building Scalable MERN Applications** | Jan 2025 | [Read More →](https://your-blog-link.com/mern-scalability) |
-| **AI Integration in Modern Web Apps** | Dec 2024 | [Read More →](https://your-blog-link.com/ai-integration) |
-| **Optimizing React Performance** | Dec 2024 | [Read More →](https://your-blog-link.com/react-optimization) |
-| **My Journey from College to Full Stack** | Nov 2024 | [Read More →](https://your-blog-link.com/journey-story) |
+| **Building AI Career Coach: Full-Stack AI Application** | Jan 2025 | [Read More →](https://your-blog-link.com/ai-career-coach-build) |
+| **Integrating Gemini API with Next.js 15** | Jan 2025 | [Read More →](https://your-blog-link.com/gemini-nextjs-integration) |
+| **Modern Portfolio Design with React & Animations** | Dec 2024 | [Read More →](https://your-blog-link.com/portfolio-design-guide) |
+| **Weather App Development: API Integration Guide** | Dec 2024 | [Read More →](https://your-blog-link.com/weather-app-tutorial) |
+| **My Journey: From College Projects to AI Applications** | Nov 2024 | [Read More →](https://your-blog-link.com/college-to-ai-journey) |
 
 <!-- BLOG-POST-LIST:START -->
 *📝 Blog posts automatically updated via GitHub Actions*
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 **YouTube Content**
-- **"MERN Stack Tutorial Series"** - Complete beginner to advanced guide
-- **"DSA in JavaScript"** - Problem-solving with practical examples
-- **"Building Real Projects"** - End-to-end development tutorials
+- **"Building AI Career Coach: Full Tutorial Series"** - Complete guide to building AI-powered career applications
+- **"Modern React Portfolio Development"** - Creating stunning portfolios with animations and modern design
+- **"Weather App with API Integration"** - Real-world API integration and data handling
+- **"Next.js 15 & AI Integration Masterclass"** - Latest Next.js features with AI implementation
 
 [![Subscribe](https://img.shields.io/badge/-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
 
