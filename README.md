@@ -88,7 +88,6 @@ const varun = {
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/23142951/varun-tyagi)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/varun-tyagi)
 
-
 </div>
 
 ---
@@ -170,12 +169,12 @@ const varun = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="Varun's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Varun's GitHub Stats"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -183,18 +182,33 @@ const varun = {
 
 ### 🔥 **Activity & Streaks**
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9&locale=en&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=Varun's%20Contribution%20Graph&days=365" width="100%" alt="Contribution Graph"/>
 
 ### 🏆 **GitHub Achievements**
   
-<img src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
+### 📊 **Contribution Stats**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varuntyagii&theme=radical" width="100%" alt="Profile Summary"/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntyagii&theme=radical" alt="Repos per Language"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varuntyagii&theme=radical" alt="Most Commit Language"/>
+</td>
+</tr>
+</table>
 
 ### 📊 **Quick Performance Metrics**
 
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-3K+-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects%20Completed-5+-green?style=for-the-badge)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-10K+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects%20Completed-8+-green?style=for-the-badge)
 ![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 </div>
@@ -208,7 +222,6 @@ const varun = {
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
 - ⚡ Fun fact: **I love solving complex problems with simple solutions**
-
 
 ---
 
@@ -235,7 +248,6 @@ const varun = {
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
 
 ---
 
