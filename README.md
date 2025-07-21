@@ -184,7 +184,12 @@ const varun = {
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9&locale=en&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=Varun's%20Contribution%20Graph&days=365" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=varuntyagii&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true&custom_title=Varun's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+
+<!-- Alternative Contribution Graph Options -->
+<img src="https://activity-graph.herokuapp.com/graph?username=varuntyagii&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 ### 🏆 **GitHub Achievements**
   
@@ -192,15 +197,27 @@ const varun = {
 
 ### 📊 **Contribution Stats**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varuntyagii&theme=radical" width="100%" alt="Profile Summary"/>
+<!-- GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varuntyagii&theme=radical&hide_border=true" width="100%" alt="Profile Summary"/>
+
+<!-- Alternative: Simple Contribution Calendar -->
+<img src="https://ghchart.rshah.org/F85D7F/varuntyagii" width="100%" alt="GitHub Contribution Chart"/>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntyagii&theme=radical" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntyagii&theme=radical&hide_border=true" alt="Repos per Language"/>
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varuntyagii&theme=radical" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varuntyagii&theme=radical&hide_border=true" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varuntyagii&theme=radical&hide_border=true" alt="GitHub Stats Summary"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varuntyagii&theme=radical&utc_offset=5.5&hide_border=true" alt="Productive Time"/>
 </td>
 </tr>
 </table>
