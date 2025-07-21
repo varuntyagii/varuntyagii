@@ -216,12 +216,24 @@ const varun = {
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+<!-- If you have a blog-post workflow set up, your latest posts will appear here automatically -->
 *📝 Blog posts automatically updated via GitHub Actions*
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 ### 🎥 **YouTube Channel**
 
 [![Subscribe](https://img.shields.io/badge/-Subscribe%20to%20My%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
+
+---
+
+### 📚 **Featured Articles & Resources**
+
+<!-- Add your favorite articles, guides, or learning resources here -->
+- [How to Master React in 2024](https://your-blog-link.com)
+- [Understanding Node.js Event Loop](https://your-blog-link.com)
+- [My Open Source Journey](https://your-blog-link.com)
 
 </div>
 
