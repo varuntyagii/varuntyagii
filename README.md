@@ -195,11 +195,6 @@ const varun = {
 
 ---
 
-## 😂 **Dev Joke of the Day**
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
----
 
 ## 🚀 **Current Goals & Focus**
 
