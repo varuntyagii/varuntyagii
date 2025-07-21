@@ -21,6 +21,71 @@
 
 </div>
 
+## 🧮 **Coding Practice & Streaks**
+
+<div align="center">
+
+### 🔥 **LeetCode Journey**
+
+<table>
+<tr>
+<td width="50%">
+
+**📊 LeetCode Statistics**
+![LeetCode Stats](https://leetcard.jacoblin.cool/varun_tyagi?theme=dark&font=Karma&ext=contest&site=cn)
+
+</td>
+<td width="50%">
+
+**⚡ Coding Streaks & Activity**
+![LeetCode Badge](https://leetcode-badge.vercel.app/api/varun_tyagi?theme=dark)
+
+![Daily Coding](https://img.shields.io/badge/Daily_Coding-Active-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problem Solved](https://img.shields.io/badge/Problems_Solved-100+-green?style=for-the-badge&logo=leetcode)
+
+</td>
+</tr>
+</table>
+
+### 🏆 **Coding Achievements**
+
+![LeetCode Ranking](https://img.shields.io/badge/LeetCode_Ranking-Top_25%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Contest Rating](https://img.shields.io/badge/Contest_Rating-1400+-orange?style=for-the-badge&logo=leetcode)
+![Daily Streak](https://img.shields.io/badge/Current_Streak-7_Days-F85D7F?style=for-the-badge&logo=fire)
+
+### 📈 **Platform Statistics**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**LeetCode**  
+![LeetCode](https://img.shields.io/badge/-Problems_Solved-FFA116?style=flat-square&logo=LeetCode&logoColor=black)  
+**100+ Problems**  
+**7 Day Streak** 🔥
+
+</td>
+<td align="center" width="33%">
+
+**GeeksforGeeks**  
+![GeeksforGeeks](https://img.shields.io/badge/-Articles_Read-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white)  
+**200+ Problems**  
+**Active Learner** 📚
+
+</td>
+<td align="center" width="33%">
+
+**CodeChef**  
+![CodeChef](https://img.shields.io/badge/-Contest_Participant-5B4638?style=flat-square&logo=CodeChef&logoColor=white)  
+**2 Star Rating**  
+**Monthly Active** ⭐
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## 🎯 **About Me**
@@ -76,6 +141,20 @@ const varun = {
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/varun_tyagi/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varuntyagii/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/varun_tyagi009)
+
+<!-- LeetCode Stats -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/varun_tyagi?theme=dark&font=Karma&ext=contest)
+
+<!-- Alternative LeetCode Card -->
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=varun_tyagi&theme=dark)
+
+<!-- LeetCode Streak & Activity -->
+<img src="https://leetcode-badge.vercel.app/api/varun_tyagi?theme=dark" alt="LeetCode Badge"/>
+
+<!-- LeetCode Calendar Heatmap -->
+<img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" alt="Daily Coding Challenge" width="80"/>
+<img src="https://leetcode.com/static/images/badges/2024-50.png" alt="50 Days Badge" width="80"/>
+<img src="https://leetcode.com/static/images/badges/2024-100.png" alt="100 Days Badge" width="80"/>
 
 ### **Social & Professional Platforms**
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
