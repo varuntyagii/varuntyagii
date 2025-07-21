@@ -40,16 +40,6 @@ const varun = {
 
 ---
 
-## 🚀 **Current Goals & Focus**
-
-- 🔭 Working on **Full Stack Projects with AI Integration**
-- 🌱 Learning **Advanced React Patterns & Next.js**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
-- ⚡ Fun fact: **I love solving complex problems with simple solutions**
-
----
-
 ## 🛠️ **Complete Tech Stack**
 
 <div align="center">
@@ -208,6 +198,17 @@ const varun = {
 ![Coffee](https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge)
 
 </div>
+
+---
+
+## 🚀 **Current Goals & Focus**
+
+- 🔭 Working on **Full Stack Projects with AI Integration**
+- 🌱 Learning **Advanced React Patterns & Next.js**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
+- ⚡ Fun fact: **I love solving complex problems with simple solutions**
+
 
 ---
 
