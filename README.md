@@ -183,7 +183,7 @@ const varun = {
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9&locale=en&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9&locale=en&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=3600" alt="GitHub Streak"/>
 </p>
 
 <!-- GitHub Activity Graph (best-maintained) -->
