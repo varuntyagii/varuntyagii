@@ -155,23 +155,60 @@ const varun = {
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&cache_seconds=1800" />
 </p>
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak - Multiple Options (Use Any One)
 
+<!-- Option 1: GitHub Readme Streak Stats (Most Reliable) -->
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&locale=en&cache_seconds=3600&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak" />
 </p>
 
-### 📈 GitHub Activity Graph
+<!-- Option 2: DenverCoder1's Streak Stats (Alternative) -->
+<!--
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak" />
+</p>
+-->
+
+<!-- Option 3: Simple Streak Counter (Backup) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+-->
+
+### 📈 Contribution Graph
+
+<!-- Option 1: Ashutosh00710's Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+<!-- Option 2: Alternative Activity Graph -->
+<!--
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=varuntyagii&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+-->
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+### 📊 Additional Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varuntyagii&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntyagii&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varuntyagii&theme=radical" alt="Top Languages by Commits" />
 </p>
 
 ---
@@ -188,7 +225,7 @@ const varun = {
 ## 🧠 **Daily Motivation**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -210,3 +247,9 @@ const varun = {
 
 > **"Code is poetry written in logic. Every bug is just a plot twist waiting to be resolved."** ✨  
 > _Last updated: July 2025 | Always evolving, always coding_ 🚀
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
