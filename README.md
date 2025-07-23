@@ -93,18 +93,13 @@ const varun = {
 
 ## 🎨 **Featured Projects**
 
-<div align="center">
-
-### 🔥 **Showcase Projects**
-
 <table>
 <tr>
 <td width="50%">
 
-**🤖 AI Career Coach**
-- **Tech**: React 19, Next.js 15, Tailwind CSS, NeonDB, Prisma, Clerk, Gemini API
-- **Features**: AI Resume Generator, Cover Letter Creator, Interview Practice with Real-time Feedback
-- **Status**: 🚀 Deployed & Live
+### 🤖 AI Career Coach
+- **Tech**: React 19, Next.js 15, Tailwind CSS, NeonDB, Prisma, Clerk, Gemini API  
+- **Features**: AI Resume Generator, Cover Letter Creator, Interview Feedback
 
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/AI-career-Coach)
 [![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://ai-career-coach-b2z4.vercel.app)
@@ -112,10 +107,9 @@ const varun = {
 </td>
 <td width="50%">
 
-**🌤️ Weather App**
-- **Tech**: React, JavaScript, Weather API, Responsive Design
-- **Features**: Real-time weather data, Location-based forecasts, Clean UI/UX
-- **Status**: ✅ Completed & Deployed
+### 🌤️ Weather App
+- **Tech**: React, Weather API, Responsive Design  
+- **Features**: Realtime forecast, Location-based data
 
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/weather-app)
 [![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://weather-app-sepia-nu-63.vercel.app)
@@ -125,10 +119,9 @@ const varun = {
 <tr>
 <td width="50%">
 
-**💼 Personal Portfolio**
-- **Tech**: React, JavaScript, CSS3, Responsive Design
-- **Features**: Project showcase, Interactive design, Contact form, Smooth animations
-- **Status**: 🚀 Live & Updated
+### 💼 Personal Portfolio
+- **Tech**: React, CSS3, Responsive Design  
+- **Features**: Interactive UI, Contact form
 
 [![Repo](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/varuntyagii/Portfolio)
 [![Live](https://img.shields.io/badge/-Live%20Demo-00D4FF?style=flat&logo=vercel)](https://portfolio-seven-xi-62.vercel.app)
@@ -136,10 +129,9 @@ const varun = {
 </td>
 <td width="50%">
 
-**🔧 More Projects Coming Soon...**
-- **Focus**: Full Stack Applications with AI Integration
-- **Tech**: MERN Stack, AI APIs, Modern Frameworks
-- **Status**: 🛠️ In Development
+### 🔧 More Projects Coming Soon...
+- Full stack apps with AI integration  
+- MERN, AI APIs, modern tooling  
 
 [![GitHub](https://img.shields.io/badge/-Follow%20for%20Updates-181717?style=flat&logo=github)](https://github.com/varuntyagii)
 
@@ -147,114 +139,71 @@ const varun = {
 </tr>
 </table>
 
-### 🛠️ **Open Source Contributions**
+---
 
-- 🔧 **React Component Library** - Created reusable UI components for modern web apps
-- 📝 **Documentation Bot** - Automated documentation generator for GitHub repositories  
-- 🎨 **CSS Animation Toolkit** - Collection of smooth, performant CSS animations
-- 🧮 **Algorithm Visualizer** - Interactive tool for learning data structures and algorithms
+## 🛠️ **Open Source Contributions**
 
-</div>
+- 🔧 React Component Libraries
+- 📝 GitHub Readme Bots
+- 🎨 CSS Animation Toolkits
+- 🧮 DSA Visualizers
 
 ---
 
 ## 📊 **GitHub Performance & Analytics**
 
-<div align="center">
+### 📈 GitHub Stats
 
-### 📈 **GitHub Statistics**
-  
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Varun's GitHub Stats"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-### 🔥 **Activity & Streaks**
-
-<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9&locale=en&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=3600" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
 </p>
 
-<!-- GitHub Activity Graph (best-maintained) -->
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&locale=en&cache_seconds=3600&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-</div>
-
----
-
-
-## 🚀 **Current Goals & Focus**
-
-- 🔭 Working on **Full Stack Projects with AI Integration**
-- 🌱 Learning **Advanced React Patterns & Next.js**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🥅 2025 Goals: **Contribute to more Open Source projects & Build production-ready apps**
-- ⚡ Fun fact: **I love solving complex problems with simple solutions**
-
----
-
----
-
-## 📝 **Content & Learning**
-
-<div align="center">
-
-### 🎥 **YouTube Channel**
-
-[![Subscribe](https://img.shields.io/badge/-Subscribe%20to%20My%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@creative_0900)
-
-</div>
-
----
-
-## 🤝 **Let's Connect!**
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <a href="mailto:varuntyagi0099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/varuntyagi09"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/varuntyagii/varuntyagii/discussions"><img src="https://img.shields.io/badge/Ask%20me-Anything-1abc9c?style=for-the-badge" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true" />
 </p>
 
 ---
 
-## 💡 **Daily Motivation**
+## 🚀 **Current Goals**
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 💝 **Support My Journey**
-
-<div align="center">
-
-If you find my work helpful and want to support my open-source contributions and educational content, consider buying me a coffee! ☕ Your support means the world to me and helps me continue creating awesome projects.
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/varuntyagi)
-[![GitHub Sponsor](https://img.shields.io/badge/-Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/varuntyagii)
+- 🔭 Full stack apps + AI integration
+- 🌱 Advanced React / Next.js 15
+- 🤝 Contribute to OSS and DSA teaching
+- 🧠 Daily DSA with GFG/LeetCode
 
 ---
 
-### 💭 **Final Thought**
+## 🧠 **Daily Motivation**
 
-**"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."** ✨
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-*Last updated: July 2025 | Always evolving, always coding* 🚀
+---
 
-</div>
+## ☕ **Support My Open Source Journey**
+
+<p align="center">
+  <a href="https://buymeacoffee.com/varuntyagi">
+    <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://github.com/sponsors/varuntyagii">
+    <img src="https://img.shields.io/badge/-Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✍️ Final Thoughts
+
+> **"Code is poetry written in logic. Every bug is just a plot twist waiting to be resolved."** ✨  
+> _Last updated: July 2025 | Always evolving, always coding_ 🚀
