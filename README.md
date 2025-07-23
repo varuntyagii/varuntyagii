@@ -152,64 +152,23 @@ const varun = {
 
 ## 📊 **GitHub Performance & Analytics**
 
+<div align="center">
+
 ### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&cache_seconds=1800" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true)
 
-### 🔥 GitHub Streak - Multiple Options (Use Any One)
+### 🔥 GitHub Streak (Auto-Updates Daily)
+![GitHub Streak](https://streak-stats.demolab.com?user=varuntyagii&theme=radical&hide_border=true)
 
-<!-- Option 1: GitHub Readme Streak Stats (Most Reliable) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak" />
-</p>
-
-<!-- Option 2: DenverCoder1's Streak Stats (Alternative) -->
-<!--
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varuntyagii&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak" />
-</p>
--->
-
-<!-- Option 3: Simple Streak Counter (Backup) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
--->
-
-### 📈 Contribution Graph
-
-<!-- Option 1: Ashutosh00710's Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
-
-<!-- Option 2: Alternative Activity Graph -->
-<!--
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=varuntyagii&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
--->
+### 📈 Contribution Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&bg_color=20232a&color=ffffff&line=f85d7f&point=ffffff&area=true&hide_border=true)
 
 ### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
-### 📊 Additional Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varuntyagii&theme=radical" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntyagii&theme=radical" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varuntyagii&theme=radical" alt="Top Languages by Commits" />
-</p>
+</div>
 
 ---
 
