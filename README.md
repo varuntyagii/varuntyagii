@@ -23,7 +23,7 @@
 
 ---
 
-## � **About Me**
+## 🎯 **About Me**
 
 ```javascript
 const varun = {
