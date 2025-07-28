@@ -245,19 +245,11 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ### **🌟 My Open Source Impact**
 
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-25+-28a745?style=for-the-badge)
-![Issues Resolved](https://img.shields.io/badge/Issues_Resolved-15+-orange?style=for-the-badge)
-![Repositories](https://img.shields.io/badge/Public_Repos-20+-blue?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-5+-28a745?style=for-the-badge)
+![Issues Resolved](https://img.shields.io/badge/Issues_Resolved-5+-orange?style=for-the-badge)
+![Repositories](https://img.shields.io/badge/Public_Repos-10+-blue?style=for-the-badge)
 
 </div>
-
-**🔧 Key Contribution Areas:**
-- **React Component Libraries** - Building reusable, accessible UI components
-- **Developer Tools** - Creating productivity-enhancing tools and utilities  
-- **Educational Content** - DSA tutorials, coding best practices, and learning resources
-- **API Integrations** - Open-source API wrappers and integration examples
-- **Documentation** - Improving project documentation and developer experience
-
 ---
 
 ## 🎯 **Current Focus & Goals**
