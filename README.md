@@ -191,41 +191,7 @@ console.log("Welcome to my GitHub profile! 🚀");
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&bg_color=0d1117&color=ffffff&line=f85d7f&point=ffffff&area=true&hide_border=true&custom_title=Varun's%20Contribution%20Graph&height=300" alt="Contribution Graph" />
 </p>
 
-### 📊 **Detailed Performance Metrics**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varuntyagii&theme=radical" alt="Profile Summary" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntyagii&theme=radical" alt="Repos Per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varuntyagii&theme=radical" alt="Most Commit Language" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varuntyagii&theme=radical" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varuntyagii&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%" />
-</p>
-
-### 🏆 **Achievement Showcase**
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
-</p>
-
-### ⚡ **Live GitHub Metrics**
-
-<details>
-<summary><b>🔍 Click to view advanced analytics</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/varuntyagii?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&repositories=1&calendar=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&calendar.limit=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Advanced GitHub Metrics" />
-</p>
-
-</details>
-
-</div>
 
 ---
 
