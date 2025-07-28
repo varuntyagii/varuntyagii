@@ -180,55 +180,26 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 ### 📈 **Comprehensive GitHub Statistics**
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=20&title_color=f85d7f&icon_color=f85d7f&text_color=ffffff&bg_color=0d1117" alt="Varun's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true&langs_count=10&title_color=f85d7f&text_color=ffffff&bg_color=0d1117" alt="Most Used Languages" />
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Varun's GitHub Stats" alt="Varun's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 ### 🔥 **GitHub Streak Analytics**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=radical&hide_border=true&stroke=f85d7f&background=0d1117&ring=f85d7f&fire=f85d7f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f85d7f&sideLabels=f85d7f&dates=ffffff" alt="GitHub Streak Stats" />
-</p>
+<img src="https://streak-stats.demolab.com?user=varuntyagii&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak Stats" />
 
 ### 📈 **Contribution Activity Graph**
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=varuntyagii&bg_color=0d1117&color=ffffff&line=f85d7f&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="Contribution Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&bg_color=0d1117&color=ffffff&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 ### 🏆 **Achievement Showcase**
 
-<p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
-### ⚡ **GitHub Profile Summary**
+### ⚡ **Recent Activity**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varuntyagii&theme=radical" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varuntyagii&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varuntyagii&theme=radical" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varuntyagii&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varuntyagii&theme=radical&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-### 📊 **Additional GitHub Metrics**
-
-<details>
-<summary><b>🔍 Click to view detailed metrics</b></summary>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/varuntyagii?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&repositories=1&calendar=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&calendar.limit=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" />
-</p>
-
-</details>
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated -->
+<!--END_SECTION:activity-->
 
 </div>
 
