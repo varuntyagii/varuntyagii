@@ -32,7 +32,7 @@ const varunTyagi = {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "Python", "FastAPI"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Vercel", "Netlify"],
+        deployment: ["AWS", "Vercel", "Netlify"],
         tools: ["Git", "Docker", "Prisma", "Clerk"]
     },
     currentlyBuilding: "AI-powered career coaching platform",
@@ -54,7 +54,6 @@ console.log("Welcome to my GitHub profile! 🚀");
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -63,20 +62,16 @@ console.log("Welcome to my GitHub profile! 🚀");
 ### **⚙️ Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### **🗄️ Databases & Cloud**
+### **🗄️ Databases **
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **🧠 Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **🔧 Development Tools**
@@ -84,7 +79,6 @@ console.log("Welcome to my GitHub profile! 🚀");
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -191,15 +185,6 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&bg_color=0d1117&color=ffffff&line=f85d7f&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
-### 🏆 **Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-### ⚡ **Recent Activity**
-
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated -->
-<!--END_SECTION:activity-->
 
 </div>
 
@@ -348,38 +333,7 @@ graph TD
 
 ---
 
-## 💡 **Fun Facts & Personal Touch**
 
-<div align="center">
-
-```javascript
-const funFacts = {
-    favoriteEmoji: "🚀",
-    codingMusic: ["Lo-fi Hip Hop", "Synthwave", "Classical"],
-    favoriteQuote: "Code is poetry written in logic",
-    hobbies: ["Photography", "Gaming", "Tech Blogging", "Traveling"],
-    currentRead: "Clean Architecture by Robert Martin",
-    coffeeConsumed: "∞ cups/day",
-    debuggingMethod: "console.log() with pride!",
-    superpower: "Turning caffeine into code"
-};
-
-// Fun fact: I believe every bug is just a feature waiting to be discovered! 🐛✨
-```
-
-</div>
-
----
-
-## 📈 **GitHub Metrics Deep Dive**
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/varuntyagii?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&people=1&gists=1&repositories=1&starlists=1&calendar=1&stargazers=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&gists.shuffle=true&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar.limit=1&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.token=NOT_SET&config.timezone=Asia%2FKolkata)
-
-</div>
-
----
 
 <div align="center">
 
@@ -391,9 +345,6 @@ const funFacts = {
 
 ---
 
-*⚡ Fun Fact: This README updates automatically with my latest GitHub activity!*  
-*🔄 Last updated: Automatically via GitHub Actions*  
-*💻 Built with: Markdown, GitHub Stats APIs, and lots of ☕*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff" width="100%" />
 
