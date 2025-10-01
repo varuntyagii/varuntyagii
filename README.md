@@ -147,6 +147,21 @@ console.log("Welcome to my GitHub profile! 🚀");
 </table>
 
 ---
+## ⚡ GitHub Stats  
+
+<div align="center">
+
+<!-- Stats Card -->
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=radical&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=radical&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=radical&hide_border=true)
+
+</div>
+---
 
 ## 📊 GitHub Analytics
 
