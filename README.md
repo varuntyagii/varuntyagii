@@ -40,7 +40,10 @@ const varun = {
 
 <div align="center">
 
-![GitHub Activity Radar](assets/images/github_radar_chart.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg">
+  <img alt="GitHub Activity Radar" src="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg" width="500">
+</picture>
 
 <img src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
