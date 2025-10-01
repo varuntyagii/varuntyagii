@@ -85,66 +85,10 @@ console.log("Welcome to my GitHub profile! 🚀");
 </div>
 
 ---
+## 📊 GitHub Activity Overview
 
-## 🎨 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Career Coach
-**Next-Gen Career Development Platform**  
-
-- AI-powered resume & cover letter generation  
-- Mock interviews with AI feedback  
-- Personalized career path suggestions  
-
-[![Repository](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/varuntyagii/AI-career-Coach)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=vercel)](https://ai-career-coach-b2z4.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🌤️ Smart Weather Dashboard
-**Real-time Weather Intelligence**  
-
-- Live forecasts and charts  
-- Location-based detection  
-- Interactive weather maps  
-
-[![Repository](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/varuntyagii/weather-app)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=vercel)](https://weather-app-sepia-nu-63.vercel.app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💼 Portfolio Website  
-**Showcasing Projects and Skills**  
-
-- Smooth animations  
-- Fully responsive  
-- Dynamic showcase  
-
-[![Repository](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/varuntyagii/Portfolio)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=vercel)](https://portfolio-seven-xi-62.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🚀 Upcoming Projects  
-- E-commerce platform (MERN + Stripe)  
-- Real-time Chat app (Socket.io)  
-- Task Manager (Next.js + PostgreSQL)  
-- DSA Visualizer (Three.js)  
-
-[![Follow](https://img.shields.io/badge/Follow-Updates-28A745?style=for-the-badge&logo=github)](https://github.com/varuntyagii)
-
-</td>
-</tr>
-</table>
+![GitHub Radar Chart](assets/images/github_radar_chart.png)
+---
 
 ---
 ## ⚡ GitHub Stats  
