@@ -1,18 +1,13 @@
-<div align="center">
-
 # Hi, I'm Varun Tyagi 👋
 
-### Full Stack Developer | MERN Stack Expert | DSA Enthusiast
+**Full Stack Developer** • **MERN Stack Expert** • **DSA Enthusiast**
 
-*Building scalable web applications with modern technologies*
+Building scalable web applications with modern technologies from Delhi, India 🇮🇳
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=varuntyagii&color=blueviolet&style=flat-square)
-
-</div>
 
 ---
 
@@ -23,66 +18,48 @@ const varun = {
     location: "Delhi, India 🇮🇳",
     education: "B.Tech in Computer Science",
     role: "Full Stack Developer",
-    currentProject: "AI-powered career coaching platform",
     focus: ["AI Integration", "System Design", "React Patterns"],
-    learning: ["Machine Learning", "Cloud Architecture"],
+    building: "AI-powered career coaching platform",
     motto: "Code with purpose, learn with passion"
 };
 ```
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Redux  
+**Backend:** Node.js • Express.js • Python • FastAPI  
+**Database:** MongoDB • PostgreSQL • Redis • Prisma  
+**Tools:** Git • Docker • AWS • Vercel • Clerk
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
-<div align="center">
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=tokyonight&hide_border=true)
 
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Most Used Languages
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+## 📊 GitHub Activity Radar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg">
+  <img alt="GitHub Activity Radar" src="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg" width="600">
+</picture>
 
 </div>
 
@@ -90,10 +67,9 @@ const varun = {
 
 <div align="center">
 
-### 💡 *"The best way to predict the future is to invent it"*
+**Currently building:** AI-powered career coaching platform  
+**Focus areas:** AI Integration • System Design • React Patterns
 
-**Open to collaboration** • **Always learning** • **Building innovative solutions**
-
-⭐️ From [varuntyagii](https://github.com/varuntyagii)
+*Open to collaboration • Always learning • Building the future*
 
 </div>
