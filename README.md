@@ -51,6 +51,18 @@ const varun = {
 
 </div>
 
+## 📊 GitHub Activity Radar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg">
+  <img alt="GitHub Activity Radar" src="https://raw.githubusercontent.com/varuntyagii/varuntyagii/main/github_radar_chart.svg" width="600">
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
