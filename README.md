@@ -43,15 +43,11 @@ const varun = {
 
 </div>
 
-## 🏆 Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-500+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/varun_tyagi/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-300+-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/varuntyagii/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/varun_tyagi009)
+## 📈 Most Used Languages
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/varun_tyagi?theme=dark&font=Karma)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
