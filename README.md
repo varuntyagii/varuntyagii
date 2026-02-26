@@ -67,13 +67,7 @@ const varun = {
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
 
 ---
 
