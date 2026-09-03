@@ -60,44 +60,6 @@ const varun = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=varuntyagii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
 ---
 
 <div align="center">
