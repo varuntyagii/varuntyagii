@@ -6,11 +6,13 @@
 
 *Building scalable web applications with modern technologies*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-seven-xi-62.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varuntyagi.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varuntyagi09)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varuntyagi0099@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varuntyagii&color=blueviolet&style=flat-square)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGVnYnBmaTIydW00NnVjZTV2am1wMmRzeTdzOHFrajB2amxpdWY3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="dev gif"/>
 
 </div>
 
@@ -29,6 +31,8 @@ const varun = {
     motto: "Code with purpose, learn with passion"
 };
 ```
+
+---
 
 ## 💻 Tech Stack
 
@@ -57,7 +61,24 @@ const varun = {
 
 </div>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=varuntyagii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuntyagii&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=varuntyagii&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -67,7 +88,15 @@ const varun = {
 
 </div>
 
+---
 
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=varuntyagii&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
 
 ---
 
